@@ -5,13 +5,17 @@
   font-family: Arial, Helvetica, sans-serif;
 }
 
+button {
+  display: none;
+}
+
 .wrapper {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-around;
 }
 
-.troca-cor {
+.troca-cor-vermelho {
   display: inline-block;
   margin-left: 10px;
   width: 25px;
