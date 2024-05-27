@@ -6,7 +6,8 @@
 }
 
 button {
-  display: none;
+  border: none;
+  background-color: white;
 }
 
 .wrapper {
@@ -123,13 +124,9 @@ img {
     font-size: 16;
   }
 
-  .color-switch {
-    display: none;
-  }
-
   .container-produto {
     width: 350px;
-    height: 450px;
+    height: 500px;
   }
 
   .button-flex {
